@@ -48,7 +48,7 @@ bash <(curl -sSL https://raw.githubusercontent.com/kendrickcodes98/pterodactyl-c
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/kendrickcodes98/pterodactyl-custom-server-address.git
 ```
 
 Enter the directory:
